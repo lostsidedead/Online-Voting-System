@@ -42,7 +42,7 @@ g++ main.cpp voting_system.cpp -o voting_system
 3. Run the program:
 
 ```bash
-    ./voting_system
+./voting_system
 ```
 
 Example Output

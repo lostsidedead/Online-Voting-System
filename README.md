@@ -34,15 +34,19 @@ To compile and run the program, follow these steps:
 
 2. Compile the program:
 
+```bash
 g++ main.cpp voting_system.cpp -o voting_system
-
+```
 
 3. Run the program:
 
+```bash
     ./voting_system
+```
 
 Example Output
 
+```bash
 Online Voting System
 1. Cast Vote
 2. View Results
@@ -61,7 +65,7 @@ Voting Results:
 Option 1: 0 votes
 Option 2: 1 votes
 Option 3: 0 votes
-
+```
 
 License
 

@@ -27,9 +27,10 @@ To compile and run the program, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/lostsidedead/online-voting-system.git
-   cd online-voting-system
+```bash
+git clone https://github.com/lostsidedead/online-voting-system.git
+cd online-voting-system
+```
 
 
 2. Compile the program:

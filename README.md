@@ -32,12 +32,12 @@ To compile and run the program, follow these steps:
    cd online-voting-system
 
 
-Compile the program:
+2. Compile the program:
 
 g++ main.cpp voting_system.cpp -o voting_system
 
 
-Run the program:
+3. Run the program:
 
     ./voting_system
 
@@ -47,16 +47,15 @@ Online Voting System
 1. Cast Vote
 2. View Results
 3. Exit
-
 Enter your choice: 1
 Select your vote (1-Option1, 2-Option2, 3-Option3): 2
 You voted for Option 2.
+
 
 Online Voting System
 1. Cast Vote
 2. View Results
 3. Exit
-
 Enter your choice: 2
 Voting Results:
 Option 1: 0 votes

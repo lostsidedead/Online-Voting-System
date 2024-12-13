@@ -27,3 +27,35 @@ To compile and run the program, follow these steps:
    ```bash
    git clone https://github.com/lostsidedead/online-voting-system.git
    cd online-voting-system
+
+Compile the program:
+
+g++ main.cpp voting_system.cpp -o voting_system
+
+Run the program:
+
+    ./voting_system
+
+Example Output
+
+Online Voting System
+1. Cast Vote
+2. View Results
+3. Exit
+Enter your choice: 1
+Select your vote (1-Option1, 2-Option2, 3-Option3): 2
+You voted for Option 2.
+
+Online Voting System
+1. Cast Vote
+2. View Results
+3. Exit
+Enter your choice: 2
+Voting Results:
+Option 1: 0 votes
+Option 2: 1 votes
+Option 3: 0 votes
+
+License
+
+This project is licensed under the MIT License.

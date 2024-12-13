@@ -8,15 +8,18 @@ This is a simple Online Voting System implemented in C++. The system allows user
 - **View Results**: Users can view the current vote tally for each option.
 - **Exit**: The program allows users to exit the voting system.
 
+
 ## Requirements
 
 - C++ Compiler (e.g., GCC, Clang)
+
 
 ## Files
 
 - **main.cpp**: The main program that runs the voting system.
 - **voting_system.h**: Header file containing the class declaration for the voting system.
 - **voting_system.cpp**: Implementation file for the methods of the voting system.
+
 
 ## Compilation and Running
 
@@ -28,9 +31,11 @@ To compile and run the program, follow these steps:
    git clone https://github.com/lostsidedead/online-voting-system.git
    cd online-voting-system
 
+
 Compile the program:
 
 g++ main.cpp voting_system.cpp -o voting_system
+
 
 Run the program:
 
@@ -42,6 +47,7 @@ Online Voting System
 1. Cast Vote
 2. View Results
 3. Exit
+
 Enter your choice: 1
 Select your vote (1-Option1, 2-Option2, 3-Option3): 2
 You voted for Option 2.
@@ -50,11 +56,13 @@ Online Voting System
 1. Cast Vote
 2. View Results
 3. Exit
+
 Enter your choice: 2
 Voting Results:
 Option 1: 0 votes
 Option 2: 1 votes
 Option 3: 0 votes
+
 
 License
 
